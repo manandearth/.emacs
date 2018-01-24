@@ -189,6 +189,15 @@
 (global-set-key (kbd "C-c i")
 (lambda() (interactive)(org-babel-load-file "~/.emacs.d/init.org")))
 #+END_SRC
+* magit
+** status binding 
+#+BEGIN_SRC emacs-lisp
+; status globally
+(global-set-key (kbd "C-x g") 'magit-status)
+; pop up of pop ups globally
+(global-set-key (kbd "C-x M-g") 'magit-dispatch-popup)
+
+#+END_SRC
 * MU4E
 ** requirements
 #+BEGIN_SRC emacs-lisp

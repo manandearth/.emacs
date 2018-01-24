@@ -143,6 +143,11 @@
 (global-set-key (kbd "C-c i")
 (lambda() (interactive)(org-babel-load-file "~/.emacs.d/init.org")))
 
+; status globally
+(global-set-key (kbd "C-x g") 'magit-status)
+; pop up of pop ups globally
+(global-set-key (kbd "C-x M-g") 'magit-dispatch-popup)
+
 (add-to-list 'load-path "/usr/local/share/emacs/site-lisp/mu4e/") ;;mu4e mail
 (require 'mu4e)
 (require 'smtpmail)
