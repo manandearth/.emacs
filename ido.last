@@ -1,0 +1,166 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/adam/Downloads/" . "alvarez/")
+ ("/home/adam/notes/ref/" . "lib/")
+ ("/home/adam/Introduction_To_Computation_And_Programming_Using_Python/" . "on_edX/")
+ ("/home/adam/Introduction_To_Computation_And_Programming_Using_Python/on_edX/" . "ps6/")
+ ("/home/adam/fluent_python/" . "Part_1/")
+ ("/home/adam/notes/" . "ref/")
+ ("/home/adam/Documents/Alvarez/Cadiz_series/" . "spec_sheets/")
+ ("/home/adam/Documents/Alvarez/" . "invoices/")
+ ("/home/adam/Documents/" . "Alvarez/")
+ ("/usr/share/emacs/site-lisp/" . "mu4e/")
+ ("/usr/share/emacs/" . "site-lisp/")
+ ("/usr/share/" . "emacs/")
+ ("/usr/" . "share/")
+ ("/" . "home/")
+ ("/home/adam/.offlineimap/Account-Posteo/" . "LocalStatus/")
+ ("/home/adam/.offlineimap/" . "Account-Posteo/")
+ ("/home/adam/Python_for_data_analysis/" . "4_Numpy_basics/")
+ ("/home/adam/Foundations_For_Analytics_With_Python/" . "chapter_4_data_bases/")
+ ("/home/adam/.emacs.d/elpa/" . "ob-ipython-20180113.929/")
+ ("/home/adam/.emacs.d/" . "elpa/")
+ ("/home/" . "adam/")
+ ("/home/adam/" . "notes/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/adam/notes/"
+ "/home/adam/.emacs.d/"
+ "/home/adam/scimax/"
+ "/home/adam/.emacs.d/elpa/ob-ipython-20180113.929/"
+ "/home/adam/.emacs.d/elpa/"
+ "/home/adam/.emacs.d/elpa/dash-20171028.854/"
+ "/home/adam/notes/images/"
+ "/home/adam/Introduction_To_Computation_And_Programming_Using_Python/on_edX/ps6/"
+ "/home/adam/"
+ "/home/adam/fluent_python/Part_1/"
+ "/home/adam/Introduction_To_Computation_And_Programming_Using_Python/on_edX/"
+ "/home/adam/notes/study/"
+ "/home/adam/Documents/Alvarez/Cadiz_series/"
+ "/home/adam/Stack_overflow_tmp/"
+ "/home/adam/Foundations_For_Analytics_With_Python/"
+ "/home/adam/Python_for_data_analysis/4_Numpy_basics/"
+ "/home/adam/Python_for_data_analysis/3_Data_structures_functions_and_files/"
+ "/usr/share/emacs/site-lisp/mu4e/"
+ "/home/adam/.offlineimap/Account-Posteo/LocalStatus/"
+ "/home/adam/Introduction_To_Computation_And_Programming_Using_Python/"
+ "/home/adam/Python_for_data_analysis/2_basics/"
+ "/home/adam/.emacs.d/elpa/material-theme-20160908.1538/"
+ "/home/adam/.emacs.d/highlight-current-line-0.57/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "home.org"
+ "init.org"
+ "packages.el"
+ "pianobar.el"
+ "org-editmarks.el"
+ "org-db.el"
+ "org-mime.el"
+ "bootstrap.el"
+ "scimax-org-babel-ipython.el"
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/adam/notes/" (23144 12472 163872 936000) "work_alvarez.org~" "journal.org" "test.png" "home.org~" "study.org" "how_to_become_a_data_scientist.org" "test.eps" "obipy-resources/" "purely_finance.org~" "work_related.org~" "init_imag_fr.org" "./" "alvarez_cadiz_series_2nd_rev.odt" ".#home.org" "jobs_woodwork.org" "home.org" "diary.org~" "home.org_archive" "ref/" "diary.org" "todo.org~" "org-check.org" "purely_finance.org" "notes.org" "guitar_making.org~" "work_alvarez.org" "study.org~" "refile.org~" "papers.org" "notes.org~" "babel_test.org~" "alvarez_cadiz_series_2nd_rev.docx" "analytics_course.org~" "how_to_become_a_data_scientist.org~" "study/" "init_imag_fr.org~" "home.org_archive~" "scimax.org~" "org-check.org~" "jobs_woodwork.org~" "refile.org" "alvarez_cadiz_series.org~" "../" "images/" "alvarez_cadiz_series.org" "guitar_making.org" "scimax.org" "papers.org~" "babel_test.org")
+
+ ("/home/adam/" (23142 57812 259708 65000) ".bash_profile" ".test.py" ".moc/" "Documents/" ".xsession-errors" "Python_data_science_handbook/" ".xsession" ".inxi_info" ".test.py.un~" "learn_data_science_nborwankar/" ".vimrc~" ".extend.xinitrc" "bar_plot.png" ".astropy/" ".xsession-errors.old" "jedi-vim/" ".mu/" ".esd_auth" ".extend.bashrc" ".vimrc" "tutor" ".gimp-2.8/" ".pylint.d/" "#second_notebook.ipynb#" ".cache/" "think_stats/" ".Xresources" "first_emacs_python.py~" ".viminfo" ".mozilla/" "..vimrc.un~" ".test2.py.un~" "#*message*-20171127-133504#" ".running_kernel" ".xinitrc" "nullmailertest.sh" "./" ".offlineimaprc" ".notes~" "Foundations_For_Analytics_With_Python/" "#*message*-20171127-141633#" "contacts15_09.vcf" "vim/" "Videos/" ".PyCharmCE2017.2/" "Python_for_data_analysis/" "Templates/" ".moonchild productions/" ".bashrc-anaconda3.bak" "myemail.email" "Pictures/" ".jupyter/" ".Xclients" "first_notebook_in_emacs.ipynb~" ".gtkrc-2.0" ".bashrc~" ".viminfz.tmp" "Data_Smart/" "Public/" ".urxvt/" ".dmenurc" "TUTORIAL~" ".java/" "'/" "scimax/" "Desktop/" ".thumbnails/" "Books/" "#*message*-20171127-143740#" ".extend.bashrc~" "TUTORIAL" "~/" ".offlineimap/" ".emacs.d/" ".dir_colors" "offlineimap/" ".config/" ".bash_history" "figure_1.png" ".vim/" ".spyder2-py3/" ".viminfo.tmp" "vc/" ".gnupg/" ".ipython/" ".Xauthority" ".bash_logout" ".xprofile" "Music/" ".gnome/" ".python_history" ".ipynb_checkpoints/" ".extend.Xresources" ".authinfo" ".bashrc" "scimax.sh" "#TUTORIAL#" "Introduction_To_Computation_And_Programming_Using_Python/" ".elinks/" ".profile" "fluent_python/" "first_emacs_python.py" ".vim2/" "git/" ".pki/" "nlpsolver.oxt" ".conda/" "../" "..test.py.un~" ".i3/" ".dmrc" ".elfeed/" "#*message*-20171127-135615#" "notes/" "Stack_overflow_tmp/" "Movies/" "Untitled11.ipynb" "Maildir/" "anaconda3/" ".local/" "init.el" "Downloads/" ".notes" ".test.html.un~" ".ff-theme-util_1strun" ".screenlayout/" "second_notebook.ipynb~" ".offlineimaprc~" ".continuum/" ".wget-hsts" ".icons/" "PycharmProjects/")
+
+ ("/home/adam/Downloads/alvarez/" (23141 64844 671506 654000) "image-54189.jpeg" "image-54176.jpeg" "./" "image-54215.jpeg" "image-54096.jpeg" "image-54200.jpeg" "image-54143.jpeg" "../")
+
+ ("/home/adam/Downloads/" (23141 64751 985425 817000) "init_imag_fr.org" "alvarez/" "./" "emacs-elpy-jupyter.gif" "triodos_09_05.pdf" "Anaconda3-4.1.1-Linux-x86_64.sh" "../" "Anaconda3-5.0.1-Linux-x86_64.sh" "008 ST LOUIS MUSIC invoice.pdf")
+
+ ("/home/adam/notes/ref/lib/" (23141 5877 418412 790000) "./" "TLCL-17.10.pdf" "thinkstats.pdf" "The_Little_Schemer_4th_2.pdf" "thinkbayes.pdf" "functional-programming-python.pdf" "../" "thinkpython2.pdf")
+
+ ("/home/adam/Introduction_To_Computation_And_Programming_Using_Python/on_edX/ps6/" (23139 32073 225433 441000) "story.txt" "./" "ps6.py~" "ps6.zip" "../" ".#ps6.py" "words.txt" "ps6.py")
+
+ ("/home/adam/.emacs.d/elpa/" (23132 52602 643552 578000) "ivy-readme.txt" "transpose-frame-20151126.626/" "helm-core-20180113.40/" "skewer-mode-20170730.1241/" "org-ref-readme.txt" "counsel-readme.txt" "find-file-in-project-20171115.316/" "anaconda-mode-20170924.704/" "swiper-20180112.1001/" "solarized-theme-20171114.1506/" "ivy-20171113.1024/" "use-package-20171121.1430/" "seq-2.20.signed" "auto-complete-20170124.1845/" "dash-functional-20180107.818/" "biblio-20161014.1604/" "company-20171017.1638/" "seq-2.20/" "flycheck-20171109.216/" "gntp-20141024.1950/" "epl-20150517.433/" "better-defaults-20170613.2104/" "pdf-tools-20180109.1234/" "request-20170131.1747/" "hydra-20171120.1042/" "./" "bind-key-20161218.1520/" "popup-20160709.729/" "heap-readme.txt" "monokai-theme-20171013.236/" "async-20180103.2312/" "s-20171102.227/" "tablist-20170219.1935/" "material-theme-20160908.1538/" "elpy-20171110.657/" "pythonic-20160221.1123/" "js2-mode-20171107.333/" "ivy-bibtex-20180110.1209/" "swiper-readme.txt" "key-chord-20160227.438/" "websocket-20171113.2045/" "yasnippet-20170923.1646/" "ivy-20180112.958/" "exec-path-from-shell-readme.txt" "diminish-20170419.1036/" "interleave-20171003.2324/" "beacon-readme.txt" "log4e-20170401.604/" "exec-path-from-shell-20170508.4/" "helm-bibtex-readme.txt" "deferred-20170901.630/" "ob-ipython-readme.txt" "ob-ipython-20180113.929/" "helm-bibtex-20180110.1209/" "conda-20171109.903/" "company-anaconda-20160809.705/" "parsebib-20180111.20/" "request-deferred-20160419.1605/" "ein-20171107.1314/" "pkg-info-20150517.443/" "ivy-bibtex-readme.txt" "biblio-core-20160901.1115/" "beacon-20171017.1540/" "mu4e-alert-20170901.1027/" "gnupg/" "archives/" "py-autopep8-20160925.352/" "../" "highlight-indentation-20170502.43/" "dash-20171028.854/" "pdf-tools-readme.txt" "ht-20171112.1405/" "f-20171107.1248/" "simple-httpd-20171004.938/" "pyvenv-20171005.1106/" "helm-20180114.2330/" "counsel-20180113.711/" "alert-20171024.1907/")
+
+ ("/home/adam/.emacs.d/" (23135 12559 726814 391000) "monokai-theme.el~" "url/" "company-mode/" "anaconda-mode/" "#ido.last#" "eww-bookmarks" "auto-save-list/" "ido.last" "image-dired/" "./" ".org-id-locations" "highlight-current-line-0.57/" "elpa/" "ido.last~" "network-security.data" "ac-comphist.dat" "init.org" "request/" "init.el~" "src/" "../" "bookmarks" "scimax-org-babel-ipython.el" "monokai-theme.el" "init.el" "themes/" "zenburn-theme.el" "init.org~" "transpose-frame.el" "snippets/")
+
+ ("/home/adam/notes/ref/" (23132 53416 440523 346000) "./" "../" "lib/")
+
+ ("/home/adam/scimax/" (23131 54686 528589 311000) "org-ref/" "org-show/" "Cask" "scimax-autoformat-abbrev.el" "scimax-notebook.el" "install-scimax-mac.sh" "ipython-inline-images/" "techela/" "install-scimax-win.sh" "contacts.el" ".gitmodules" ".git/" "auto-save-list/" "scimax-latex.el" "ox-word.el" "appveyor.yml" "test/" "scimax-email.el" "scimax-elfeed.el" "README.org" "./" "scimax-org.el" "ob-ipython/" "examples/" "ox-ipynb/" "emacs-keybinding-command-tooltip-mode.el" "scimax.info" ".travis-install.sh" "words.el" "elpa/" "scimax-ldap.el" "ore.el" "scimax-ivy.el" "contacts.org" "kitchingroup.el" "scimax-hydra.el" "#packages.el#" "pianobar.el" "issues/" "org-db.el" "org-mime.el" "packages.el" "scimax-utils.el" "org-editmarks.el" "Makefile" "scimax-mode.el" "scimax-org-eldoc.el" "ox-cmu/" "ox-manuscript/" "scimax-journal.el" "bootstrap.el" "ov-highlight/" "scimax-org-babel-python.el" "user/" "../" "install-scimax-linux.sh" "bibtex-hotkeys.el" "ox-rtf.el" "scimax-org-babel-ipython.el" ".travis.yml" ".gitignore" "ox-clip/" "scimax-macros.el" "scimax.el" "scimax.org" "init.el" "cm-mods.el" "dir" "scimax-functional-text.el")
+
+ ("/home/adam/notes/images/" (23131 7457 436896 965000) "figure_1-1.png" "test.png" "./" "Wiki_slope_in_2d.svg.png" "test.svg~" "../" "test.svg")
+
+ ("/home/adam/.emacs.d/elpa/ob-ipython-20180113.929/" (23131 5755 872324 96000) "ob-ipython.el" "ob-ipython.elc" "ob-ipython-pkg.el" "./" "ob-ipython.el~" "ob-ipython-autoloads.el" "../" "client.py")
+
+ ("/home/adam/.emacs.d/elpa/dash-20171028.854/" (23053 55473 431214 995000) "dash.elc" "dash-pkg.el" "dash.el" "./" "dash-autoloads.el" "../")
+
+ ("/home/adam/Python_data_science_handbook/" (23129 10498 864720 219000) "./" "introduction_to_numpy.ipynb" "ipython.ipynb" ".ipynb_checkpoints/" "../")
+
+ ("/home/adam/Introduction_To_Computation_And_Programming_Using_Python/on_edX/" (23122 35831 567462 687000) "week_5_classes.py" "./" "week_5_classes.py~" "#week_5_classes.py#" "ps6/" "hand.py~" "../" "hand.py")
+
+ ("/home/adam/fluent_python/Part_1/" (23117 7932 679376 724000) "poker.py~" "./" "poker.py" "chapter_1.py~" "../")
+
+ ("/home/adam/Introduction_To_Computation_And_Programming_Using_Python/" (23116 61073 264742 868000) "RegEx_01.py" "rectangle_class.py" "./" "#rectangle_class.py#" "recursion_01.py" "on_edX/" "if.py" "classTutorial_01.py" "../" "classTutorial_01" "Python_2_7_13/")
+
+ ("/usr/" (23094 6634 418148 197000) "share/" "./" "include/" "bin/" "sbin/" "lib32/" "src/" "../" "lib64/" "local/" "lib/")
+
+ ("/usr/share/" (23069 11393 648221 801000) "defaults/" "ufw/" "icu/" "xcb/" "readline/" "man/" "gst-plugins-bad/" "perl5/" "wayland-protocols/" "tlp/" "dunst/" "morc_menu/" "gnome-vpn-properties/" "libtool/" "sounds/" "hwinfo/" "file/" "iso-codes/" "liblangtag/" "vala/" "dhcpcd/" "os-prober/" "syslog-ng/" "cmake/" "git-gui/" "mimelnk/" "emacs/" "doc/" "aclocal-1.15/" "terminfo/" "epdfview/" "appdata/" "macosx/" "glvnd/" "gitk/" "moc/" "plank/" "gettext-0.19.8/" "libalpm/" "libdrm/" "xsessions/" "app-info/" "gtksourceview-2.0/" "groff/" "grub/" "guile/" "m17n/" "ghostscript/" "tabset/" "xapian-core/" "pcmanfm/" "git-core/" "blueman/" "dhclient/" "bash-completion/" "idl/" "p11-kit/" "vlc/" "qt/" "./" "application-registry/" "automake-1.15/" "enchant/" "imlib2/" "snmp/" "classes/" "mkinitcpio/" "fzf/" "mime/" "pulseaudio/" "mime-info/" "alsa/" "gir-1.0/" "gimp/" "libthai/" "backgrounds/" "vim/" "cracklib/" "lxinput/" "hspell/" "manjaro-hello/" "mesa-demos/" "libgksu/" "ffmpeg/" "nano/" "info/" "factory/" "liblouis/" "icons/" "java/" "GConf/" "locale/" "awk/" "omf/" "firebird/" "glade/" "slsh/" "thumbnailers/" "kbd/" "help/" "gnome/" "conky/" "makepkg/" "viewnior/" "sbxkb/" "zsh/" "bison/" "gitweb/" "gtk-engines/" "libgphoto2/" "ca-certificates/" "lightdm-gtk-greeter-settings/" "ntp/" "ppd/" "pacman/" "gapi-2.0/" "gtksourceview-3.0/" "gksu/" "w3m/" "desktop-directories/" "system-config-printer/" "fonts/" "ImageMagick-6/" "aclocal/" "misc/" "cups/" "ss/" "dmenu/" "i18n/" "pygtk/" "openal/" "gufw/" "skypeforlinux/" "graphite2/" "tc/" "gstreamer-1.0/" "gtk-doc/" "licenses/" "gutenprint/" "lshw/" "dnsmasq/" "libexttextcat/" "gcc-7.2.0/" "sip/" "keyutils/" "openvpn/" "fish/" "avahi/" "libfm/" "libgpg-error/" "gconf/" "poppler/" "gettext/" "pkgconfig/" "libwacom/" "gtk-2.0/" "libreoffice/" "gnupg/" "vulkan/" "gdb/" "applications/" "pygobject/" "polkit-1/" "makepkg-template/" "git/" "systemd/" "wayland/" "autoconf/" "gvfs/" "../" "jack-audio-connection-kit/" "ecryptfs-utils/" "pacman-mirrors/" "pavucontrol/" "mobile-broadband-provider-info/" "X11/" "common-lisp/" "dbus-1/" "hplip/" "dict/" "foomatic/" "kde4/" "sgml/" "glib-2.0/" "pixmaps/" "metainfo/" "installed-tests/" "libcaca/" "themes/" "hwdata/" "xfburn/" "texinfo/" "libgphoto2_port/" "xfce4/" "xml/" "qt4/" "gtk-3.0/" "redland/" "xgreeters/" "kf5/" "zoneinfo/" "lxappearance/" "gst-plugins-base/" "et/" "volumeicon/" "Thunar/" "zenity/" "iana-etc/")
+
+ ("/home/adam/Stack_overflow_tmp/" (23113 15515 333775 20000) "Sent.txt" "sales_table.xlsx" "table1_corrected.csv" "sales_table2.xlsx" "sentences.txt" "./" "test2.xlsx" "files/" "script.py" "tmp1.ipynb" ".ipynb_checkpoints/" "Untitled.ipynb" "../" "table1.csv" "script.py~")
+
+ ("/usr/share/info/" (23066 38934 854988 553000) "libc.info-9.gz" "cpp.info.gz" "nettle.info.gz" "ert.info.gz" "m4.info-2.gz" "ediff.info.gz" "gnupg.info.gz" "diffutils.info.gz" "gnutls.info-4.gz" "libc.info-3.gz" "gzip.info.gz" "libcdio.info.gz" "cl.info.gz" "make.info-2.gz" "grub-dev.info.gz" "gcrypt.info.gz" "gpgme.info-1.gz" "libc.info-13.gz" "libffi.info.gz" "find.info-2.gz" "groff.info.gz" "pgg.info.gz" "gccint.info.gz" "smtpmail.info.gz" "tar.info-1.gz" "automake.info-2.gz" "gnutls-client-server-use-case.png" "automake-history.info.gz" "gnutls.info-6.gz" "libc.info-14.gz" "aalib.info-3.gz" "libidn-components.png.gz" "gnutls.info-3.gz" "rcirc.info.gz" "flex.info.gz" "ido.info.gz" "message.info.gz" "history.info.gz" "dired-x.info.gz" "libtool.info-1.gz" "flex.info-1.gz" "emacs.info.gz" "sieve.info.gz" "vhdl-mode.info.gz" "info-stnd.info.gz" "erc.info.gz" "guile.info-1.gz" "efaq.info.gz" "gmp.info-2.gz" "tar.info-2.gz" "srecode.info.gz" "guile.info-6.gz" "gnutls.info-5.gz" "gpgme.info.gz" "mu4e.info.gz" "tar.info.gz" "as.info.gz" "emacs-gnutls.info.gz" "libunistring.info.gz" "gnutls.info-2.gz" "guile.info.gz" "libc.info-4.gz" "eudc.info.gz" "bc.info.gz" "m4.info.gz" "gpgrt.info.gz" "bison.info.gz" "guile.info-8.gz" "woman.info.gz" "coreutils.info.gz" "gdbm.info.gz" "libc.info-12.gz" "ksba.info.gz" "sc.info.gz" "dbus.info.gz" "flymake.info.gz" "eintr.info.gz" "viper.info.gz" "groff.info-1.gz" "org.info.gz" "autosprintf.info.gz" "guile.info-7.gz" "groff.info-2.gz" "semantic.info.gz" "libc.info-15.gz" "libc.info.gz" "ada-mode.info.gz" "libgtop2.info.gz" "nano.info.gz" "autotype.info.gz" "m4.info-1.gz" "flex.info-2.gz" "ebrowse.info.gz" "gnutls-modauth.png" "texinfo.info-2.gz" "gnutls-handshake-sequence.png" "ede.info.gz" "automake.info.gz" "libitm.info.gz" "gnutls-internals.png" "gnutls.info-1.gz" "libext2fs.info.gz" "nxml-mode.info.gz" "make.info-1.gz" "aalib.info.gz" "fftw3.info-1.gz" "aalib.info-2.gz" "dc.info.gz" "pkcs11-vision.png" "gnutls-layers.png" "sasl.info.gz" "todo-mode.info.gz" "mjpeg-howto.info.gz" "ld.info.gz" "mairix-el.info.gz" "bovine.info.gz" "fftw3.info.gz" "tramp.info.gz" "octave-mode.info.gz" "parted.info.gz" "gawkinet.info.gz" "libc.info-7.gz" "gmp.info.gz" "ccmode.info.gz" "r5rs.info.gz" "gnupg.info-2.gz" "aalib.info-1.gz" "texinfo.info.gz" "auth.info.gz" "wisent.info.gz" "gprof.info.gz" "gmp.info-1.gz" "inetutils.info.gz" "idlwave.info.gz" "pcl-cvs.info.gz" "liblouis.info.gz" "gcc.info.gz" "automake.info-1.gz" "find.info.gz" "rluserman.info.gz" "libtool.info.gz" "widget.info.gz" "elisp.info.gz" "aspell.info.gz" "gnupg.info-1.gz" "ses.info.gz" "libc.info-1.gz" "binutils.info.gz" "eshell.info.gz" "gpgme.info-2.gz" "guile.info-2.gz" "libconfig.info.gz" "gnutls-logo.png" "eieio.info.gz" "gnus.info.gz" "find.info-1.gz" "libidn.info.gz" "reftex.info.gz" "gnutls-handshake-state.png" "texinfo.info-1.gz" "gnutls-x509.png" "which.info.gz" "guile.info-10.gz" "aspell-dev.info.gz" "find-maint.info.gz" "libc.info-6.gz" "libtool.info-2.gz" "remember.info.gz" "grep.info.gz" "mpfr.info.gz" "guile.info-3.gz" "info.info.gz" "autoconf.info.gz" "libc.info-10.gz" "libc.info-16.gz" "guile.info-9.gz" "gawk.info.gz" "assuan.info.gz" "sed.info.gz" "grub.info.gz" "url.info.gz" "libc.info-11.gz" "bash.info.gz" "gnutls-guile.info.gz" "htmlfontify.info.gz" "make.info.gz" "gpm.info.gz" "forms.info.gz" "libgomp.info.gz" "guile.info-4.gz" "libtasn1.info.gz" "calc.info.gz" "readline.info.gz" "libc.info-2.gz" "gccinstall.info.gz" "fftw3.info-2.gz" "cppinternals.info.gz" "vip.info.gz" "newsticker.info.gz" "pinentry.info.gz" "edt.info.gz" "mh-e.info.gz" "gnutls.info.gz" "guile.info-5.gz" "emacs-mime.info.gz" "wget.info.gz" "libquadmath.info.gz" "eww.info.gz" "dir" "bfd.info.gz" "epa.info.gz" "gettext.info.gz" "libc.info-5.gz" "texinfo.info-3.gz" "libc.info-8.gz" "speedbar.info.gz" "libmpc.info.gz" "../" "./")
+
+ ("/home/adam/fluent_python/" (23112 53509 865636 471000) "./" "Part_1/" "../")
+
+ ("/home/adam/notes/study/" (23101 36882 157989 25000) "./" "presidents_height.csv" "formula.csv" "../")
+
+ ("/home/adam/Documents/Alvarez/invoices/" (23102 49017 136898 263000) "009 ST LOUIS MUSIC invoice.pdf.odg" "./" "../" "009_StLouisMusic_Invoice009.pdf")
+
+ ("/home/adam/Documents/Alvarez/" (23102 48735 300059 639000) "KoreanRosettes/" "Sep2017/" "./" "invoices/" "Aug2017/" "Alvarez_2018_Line_Up.xlsx" "Alvarez_Yairi_Dealer_Confidential_2017_July1.xlsx" "Cadiz_series/" "../")
+
+ ("/home/adam/Documents/Alvarez/Cadiz_series/" (23097 13482 474443 318000) "marketing_2017-12-19.doc" "./" "SpanishGuitarResearch/" "resources/" "alvarez_cadiz_series.txt" "marketing_2017-12-19.txt" "alavarez_cadiz_series" "../" "spec_sheets/" "#marketing_2017-12-19.txt#" "alvarez_cadiz_series.html")
+
+ ("/home/adam/Documents/doc_tmp/" (23094 13059 351748 860000) "./" "test1.xlsx" "test.csv" "../" "analytics_course.odt" "little_table.csv" "test.xlsx")
+
+ ("/home/adam/Documents/Alvarez/Cadiz_series/spec_sheets/" (23094 13248 639064 252000) ".~lock.alvarez_cadiz_series.docx#" "Cadiz_report_2017_16_12.xlsx" "alvarez_cadiz_series.odt" "./" "Alvarez_Cadiz_Spec_Sheet.xlsx" "alvarez_cadiz_series.docx" "Cadiz_Line_Up_5%2F8%2F17.xlsx" "../" "Alvarez_Cadiz_Solid_Spec_Sheet.xlsx")
+
+ ("/home/adam/Documents/" (23094 6815 411007 370000) "doc_tmp/" "Caroline_Solar/" "./" "Alvarez/" "association/" "manandearth/" "poster/" "../")
+
+ ("/home/adam/Python_for_data_analysis/4_Numpy_basics/" (23077 7129 959891 247000) "Numpy_basics.ipynb" "./" "#tmp.py#" ".ipynb_checkpoints/" "../" "array_archive.npz" "some array.npy")
+
+ ("/home/adam/Foundations_For_Analytics_With_Python/" (23076 30967 263362 164000) "Excel_chapter-03/" "test.py" "chapter_4_data_bases/" "./" "test.py~" "chapter6_figures_and_plots/" "../")
+
+ ("/home/adam/Python_for_data_analysis/3_Data_structures_functions_and_files/" (23069 51949 92093 796000) "test.py" "./" "test.txt" "test.py~" "chapter_3.ipynb" "sink.txt" "tmp.txt" ".ipynb_checkpoints/" "test.txt~" "../")
+
+ ("/home/adam/Python_for_data_analysis/" (23069 52072 817930 133000) "4_Numpy_basics/" "./" "2_basics/" ".ipynb_checkpoints/" "3_Data_structures_functions_and_files/" "Untitled.ipynb" "../")
+
+ ("/home/adam/.offlineimap/Account-Posteo/LocalStatus/" (23066 60922 384624 262000) "Trash" "./" "INBOX.old" "Sent.old" "Drafts" "Notes" "../")
+
+ ("/usr/share/emacs/site-lisp/mu4e/" (23066 38934 864988 340000) "mu4e-message.elc" "mu4e.el" "mu4e-headers.elc" "mu4e-contrib.elc" "mu4e-proc.elc" "mu4e-proc.el" "./" "mu4e-draft.elc" "mu4e-message.el" "mu4e-vars.elc" "mu4e-lists.elc" "mu4e-headers.el" "mu4e-actions.elc" "mu4e-compose.elc" "mu4e-main.el" "org-mu4e.elc" "mu4e-mark.elc" "mu4e-contrib.el" "mu4e-main.elc" "mu4e.elc" "mu4e-draft.el" "mu4e-speedbar.el" "mu4e-compose.el" "mu4e-speedbar.elc" "mu4e-view.elc" "mu4e-meta.elc" "mu4e-mark.el" "mu4e-actions.el" "mu4e-vars.el" "mu4e-lists.el" "mu4e-meta.el" "mu4e-utils.el" "../" "mu4e-view.el" "mu4e-context.el" "org-old-mu4e.elc" "mu4e-context.elc" "org-mu4e.el" "org-old-mu4e.el" "mu4e-utils.elc")
+
+ ("/usr/share/emacs/site-lisp/" (23066 38934 854988 553000) "punycode.el" "mu4e/" "git-blame.elc" "./" "git.elc" "git.el" "idna.el" "../" "git-blame.el" "subdirs.el")
+
+ ("/usr/share/emacs/" (23053 27821 520508 305000) "./" "site-lisp/" "../" "25.3/")
+
+ ("/home/adam/.offlineimap/Account-Posteo/" (23066 53012 948811 450000) "./" "../" "LocalStatus/")
+
+ ("/home/adam/.offlineimap/" (23066 55729 289458 54000) "Repository-Remote/" "./" "Repository-Local/" "Account-Test/" "pid" "Account-Posteo/" "../")
+
+ ("/home/adam/.elinks/" (23051 14490 773313 695000) "./" "globhist" "gotohist" "../" "bookmarks")
+
+ ("/home/adam/Python_for_data_analysis/2_basics/" (23061 21927 547713 365000) "some_module.py" "./" "__pycache__/" "../")
+
+ ("/home/adam/Foundations_For_Analytics_With_Python/chapter_4_data_bases/" (23060 30190 531977 488000) "pythoncentral_db.db" "Suppliers.db" "supplier_data.csv" "./" "1db_count_rows.py" "exception_db.py" "2db_insert_rows.py~" "3db_update_rows.py" "data_for_updating.csv" "2db_insert_rows.py" "mydb.db" "mydb.db-journal" "1db_count_rows.py~" ".idea/" "#1db_count_rows.py#" "my_test/" "../" "3db_update_rows.py~")
+
+ ("/home/adam/Foundations_For_Analytics_With_Python/chapter6_figures_and_plots/" (23055 25069 85160 31000) "./" "1notebook.pynb" "../")
+
+ ("/home/adam/.emacs.d/elpa/material-theme-20160908.1538/" (23053 49008 760503 567000) "material-theme-autoloads.el" "material-light-theme.el" "./" "material-theme.el" "material-light-theme.elc" "material-theme.elc" "material-theme-pkg.el" "../")
+
+ ("/home/adam/.emacs.d/highlight-current-line-0.57/" (23060 31981 541146 438000) "./" "../" "highlight-current-line.el")
+
+ ("/home/" (23050 57310 431146 133000) "./" "adam/" "../")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
